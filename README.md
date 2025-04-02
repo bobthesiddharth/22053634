@@ -1,4 +1,4 @@
-<img width="834" alt="Screenshot 2025-04-02 at 6 49 15 AM" src="https://github.com/user-attachments/assets/8771dd14-a08b-45a4-a8f1-e675b331f096" />Social Media Analytics Frontend
+Social Media Analytics Frontend
 🌟 About the Project
 This is a React-based web app that provides real-time social media insights using platform APIs. It helps businesses track user activity, trending posts, and live updates—without needing authentication!
 
@@ -44,12 +44,30 @@ Edit
 npm start
 Now, open http://localhost:3000 in your browser! 🎉
 
-📡 API Endpoints!
-
+📡 API Endpoints
 Here’s how the app fetches data:
 
-![Uploading Screenshot 2025-<img width="686" alt="Screenshot 2025-04-02 at 8 03 57 PM" src="https://github.com/user-attachments/assets/e60d0a74-7724-41c2-aa79-499420bf2b71" />
-04-02 at 6.49.15 AM.png…]()
+
+
+
+
+<img width="686" alt="Screenshot 2025-04-02 at 8 04 22 PM" src="https://github.com/user-attachments/assets/5a89a1a0-839b-40f1-b4de-8d304a8dbf95" />
+<img width="686" alt="Screenshot 2025-04-02 at 8 04 17 PM" src="https://github.com/user-attachments/assets/5e38f1e1-9e07-4bdc-98f4-19774d28435a" />
+<img width="686" alt="Screenshot 2025-04-02 at 8 04 09 PM" src="https://github.com/user-attachments/assets/3dfa0c71-1fcc-43ad-a09e-983bfe99ff3e" />
+<img width="686" alt="Screenshot 2025-04-02 at 8 03 57 PM" src="https://github.com/user-attachments/assets/2ba2efbc-a9e8-4b7b-87ed-123e99fff0f2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,12 +104,7 @@ GET http://20.244.56.144/evaluation-service/rand
 🔍 How It Works
 💡 Top Users: Fetches all users → Counts posts → Sorts & displays the top 5.
 💡 Trending Posts: Fetches posts → Sorts by highest comments.
-💡 Live Feed: Periodically polls the API<img width="686" alt="Screenshot 2025-04-02 at 8 04 09 PM" src="https://github.com/user-attachments/assets/95114c8c-a93e-438f-a1d6-8a1f7ee82627" />
- for new posts.![Uploading Screenshot 2025-04-02 at 8.04.17 PM.png…]()
-
-
-
-
+💡 Live Feed: Periodically polls the API for new posts.
 
 📜 License
 This project is open-source under the MIT License.
