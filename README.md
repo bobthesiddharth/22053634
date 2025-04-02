@@ -44,7 +44,7 @@ Edit
 npm start
 Now, open http://localhost:3000 in your browser! 🎉
 
-📡 API Endpoints![Uploading Screenshot 2025-04-02 at 8.04.22 PM.png…]()
+📡 API Endpoints!
 
 Here’s how the app fetches data:
 
